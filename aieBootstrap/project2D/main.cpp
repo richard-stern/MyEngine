@@ -12,5 +12,6 @@ int main()
 	app->run("AIE", 1280, 720, false);
 	delete app;
 
+	// Dog
 	return 0;
 }
